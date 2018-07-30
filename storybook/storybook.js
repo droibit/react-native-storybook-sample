@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
+// tslint:disable-next-line
 import { getStorybookUI, configure } from '@storybook/react-native';
 
 // import stories
